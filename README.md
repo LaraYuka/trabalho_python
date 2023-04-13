@@ -1,0 +1,2 @@
+# trabalho_python
+Lógica 
